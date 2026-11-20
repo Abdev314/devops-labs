@@ -22,7 +22,7 @@ A Bash CLI tool that compresses a log directory into a `.tar.gz` archive and rec
 
 **Directory:** [`Log-Archive/`](./Log-Archive/)
 
-
+---
 
 ### Log Analysis Tool
 
