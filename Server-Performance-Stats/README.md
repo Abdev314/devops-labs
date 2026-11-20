@@ -41,8 +41,8 @@ The script reports:
 Clone the repository:
 
 ```bash
-git clone <your-repository-url>
-cd <your-repository-directory>
+git clone git@github.com:Abdev314/devops-labs.git
+cd Server-Performance-Stats
 ```
 
 Make the script executable:
