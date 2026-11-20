@@ -93,11 +93,4 @@ Top 5 Processes by Memory:
 ├── README.md
 └── server-stats.sh
 ```
-
-## Goal
-
-The goal of this project is to practice using Bash and standard Linux utilities to inspect and understand basic server performance.
-
-## Roadmap
-
-This project is part of the [roadmap.sh Server Performance Stats](https://roadmap.sh/projects/server-stats) challenge.
+---
