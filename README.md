@@ -10,6 +10,18 @@ A Bash script that displays basic Linux server performance statistics, including
 
 **Status:** Completed
 
-**Project:** https://roadmap.sh/projects/server-stats
+**Project:** [https://roadmap.sh/projects/server-stats](https://roadmap.sh/projects/server-stats)
 
 **Directory:** [`Server-Performance-Stats/`](./Server-Performance-Stats/)
+
+---
+
+### Log Archive Tool
+
+A Bash CLI tool that compresses a log directory into a `.tar.gz` archive and records when the archive was created.
+
+**Status:** Completed
+
+**Project:** [https://roadmap.sh/projects/log-archive-tool](https://roadmap.sh/projects/log-archive-tool)
+
+**Directory:** [`Log-Archive/`](./Log-Archive/)
