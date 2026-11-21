@@ -38,6 +38,8 @@ A Bash CLI tool that analyzes Nginx access logs and displays the top 5 IP addres
 
 A GitHub Actions workflow that automatically deploys a static website to GitHub Pages when changes are pushed to the `main` branch.
 
+**Project:** [roadmap.sh/github-actions-deployment-workflow](https://roadmap.sh/projects/github-actions-deployment-workflow)
+
 **Website:** [View live website](https://abdev314.github.io/devops-labs/)
 
 **Directory:** [`gh-deployment-workflow/`](./gh-deployment-workflow/)
