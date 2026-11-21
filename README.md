@@ -40,6 +40,16 @@ A GitHub Actions workflow that automatically deploys a static website to GitHub 
 
 **Project:** [roadmap.sh/github-actions-deployment-workflow](https://roadmap.sh/projects/github-actions-deployment-workflow)
 
-**Website:** [View live website](https://abdev314.github.io/devops-labs/)
+**Website:** [View live website](YOUR_LIVE_WEBSITE_URL)
 
 **Directory:** [`gh-deployment-workflow/`](./gh-deployment-workflow/)
+
+---
+
+### Dummy Systemd Service
+
+A Bash script managed by systemd that runs continuously, logs messages every 10 seconds, and automatically restarts if the process terminates.
+
+**Project:** [roadmap.sh/dummy-systemd-service](https://roadmap.sh/projects/dummy-systemd-service)
+
+**Directory:** [`Dummy-Systemd-Service/`](./Dummy-Systemd-Service/)
